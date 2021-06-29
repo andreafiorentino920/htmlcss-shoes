@@ -64,4 +64,15 @@ section{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    font-family: 'Bitter', serif;
+    font-size: 60px;
+    text-align: center;
+    word-spacing: 20px; 
+    letter-spacing: 7px;
+    color: yellow;
+}
+
+.bg-yellow div > p{
+    color: green;
 }
