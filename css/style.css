@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+    }
+
+
 /* Body  */
 body{
     font-family: 'PT Sans', sans-serif;
